@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Unity and Unreal Engine  <br>🌐 I love solving real life problems no matter the technology <br>👯 I’m looking to collaborate on:<br>      - AR, VR, XR, MR<br>      - AR/VR tools with real-world interaction<br>      - Cross-platform real-time systems - Solving real world problems<br><br>🌱 I’m currently learning <br>      - Spatial computing workflows (WebAR, OpenCV + Unity)<br>      - Python backed systems <br>💬 Ask me about Unity, Unreal Engine, AR, VR etc.<br>⚡ Fun fact<br>      - I like building tools, and like connecting physical and virtual worlds.
+🔭 I’m currently working with Unity and Unreal Engine  <br>🌐 I love solving real life problems no matter the technology <br>👯 I’m looking to collaborate on:<br>      - AR, VR, XR, MR<br>      - AR/VR tools with real-world interaction<br>      - Cross-platform real-time systems <br>      - Solving real world problems<br><br>🌱 I’m currently learning <br>      - Spatial computing workflows (WebAR, OpenCV + Unity)<br>      - Python backed systems <br>💬 Ask me about Unity, Unreal Engine, AR, VR etc.<br>⚡ Fun fact<br>      - I like building tools, and like connecting physical and virtual worlds.
 
 
 ## 🌐 Socials:
